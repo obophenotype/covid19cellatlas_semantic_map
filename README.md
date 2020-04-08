@@ -1,6 +1,8 @@
 # covid19cellatlas_semantic_map
 A mapping of cell annotations in datasets on https://www.covid19cellatlas.org/ to CL using [matrix_semantic_map](https://pypi.org/project/matrix-semantic-map/)
 
+Scientific context - [HCA/HubMap meeting plenary](https://www.youtube.com/watch?v=gHqBoU4s63U)
+
 __Status: Under development__
 
 ### Preliminary investigation of data
